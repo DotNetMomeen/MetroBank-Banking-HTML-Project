@@ -12,7 +12,7 @@ MetroBank is a modern, clean, and professional HTML template designed specifical
 - 🌐 **Cross-Browser Compatibility:** Tested to work smoothly across all major browsers including Chrome, Firefox, Safari, and Edge.
 
 ## 🌍 Demo Link
-[MetroBank HTML Template Preview](https://preview.themeforest.net/item/metrobank-banking-and-finance-html-template/full_screen_preview/48332065?_ga=2.257021771.111322564.1724564381-2089341416.1724564381)
+[MetroBank HTML Template Preview](https://metrobank-banking.netlify.app/)
 
 ## 💼 Usage
 This template is perfect for developers and designers looking to create a professional website for banking, financial consulting, or investment companies. The well-structured code allows for easy integration into any project.
